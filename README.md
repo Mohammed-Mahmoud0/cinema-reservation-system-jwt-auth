@@ -42,8 +42,8 @@ Use Postman to get your JWT tokens:
 - **Body (JSON):**
 ```json
 {
-  "username": "admin",
-  "password": "password123"
+  "username": "moh",
+  "password": "0000"
 }
 ```
 
